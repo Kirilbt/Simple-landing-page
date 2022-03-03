@@ -1,0 +1,9 @@
+.hero-banner {
+  width: 100vw;
+  height: 60vh;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://source.unsplash.com/random');
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  color: #fff;
+}
